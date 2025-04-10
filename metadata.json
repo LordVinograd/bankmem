@@ -1,0 +1,12 @@
+{
+  "name": "Bank Mem",
+  "symbol": "BNKM",
+  "description": "Bank Mem is a memecoin that unites good people who seek happiness. Community-powered, decentralized, and friendly.",
+  "image": "https://bankmem.tokencdn.link/logo.png",
+  "decimals": 9,
+  "socials": {
+    "telegram": "https://t.me/bankmemcoinoff",
+    "github": "https://github.com/LordVinograd/bankmem",
+    "website": "https://bankmem.com"
+  }
+}
